@@ -6,7 +6,7 @@ ECNU NLP group reads ACL17 papers in the form of seminars in the 2017 summer.
 
 ## Seminar Participants
 
-纪焘、（参加的同学自己补充）
+纪焘、韦阳（参加的同学自己补充）
 
 
 
