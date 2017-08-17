@@ -18,15 +18,15 @@ paper：https://www.aclweb.org/anthology/P/P17/
 
 #### Paper List
 
-|  Date  |                Long Paper                | Speaker | Short Paper | Speaker |
-| :----: | :--------------------------------------: | :-----: | :---------: | :-----: |
-| 8.15 二 | A Full Non-Monotonic Transition System for Unrestricted Non-Projective Parsing |   纪焘    |             |         |
-| 8.16 三 |                                          |         |             |         |
-| 8.17 四 |                                          |         |             |         |
-| 8.18 五 |                                          |         |             |         |
-| 8.19 六 |                                          |         |             |         |
-| 8.21 一 |                                          |         |             |         |
-| 8.22 二 |                                          |         |             |         |
-| 8.23 三 |                                          |         |             |         |
-| 8.25 四 |                                          |         |             |         |
+|  Date  | Long Paper | Speaker |               Short Paper                | Speaker |
+| :----: | :--------: | :-----: | :--------------------------------------: | :-----: |
+| 8.17 四 |    ---     |   ---   | Character Composition Model with Convolutional Neural Networks for Dependency Parsing on Morphologically Rich Languages |   纪焘    |
+| 8.18 五 |            |         |                                          |         |
+| 8.19 六 |            |         |                                          |         |
+| 8.21 一 |            |         |                                          |         |
+| 8.22 二 |            |         |                                          |         |
+| 8.23 三 |            |         |                                          |         |
+| 8.25 四 |            |         |                                          |         |
+|        |            |         |                                          |         |
+|        |            |         |                                          |         |
 
