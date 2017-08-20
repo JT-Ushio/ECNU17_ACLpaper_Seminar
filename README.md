@@ -24,7 +24,8 @@ paper：https://www.aclweb.org/anthology/P/P17/
 | 8.18 五 |            |         |                                          |         |
 | 8.19 六 |            |         |                                          |         |
 | 8.21 一 |            |         | How to Make Context More Useful?</br>An Empirical Study on Context-Aware Neural Conversational Models |   韦阳   |
-| 8.22 二 |            |         |                                          |         |
+| 8.22 二 |            |         | An Analysis of Action Recognition Datasets for Language and Vision Tasks
+ |   付志超   |
 | 8.23 三 |            |         |                                          |         |
 | 8.25 四 |            |         |                                          |         |
 |        |            |         |                                          |         |
