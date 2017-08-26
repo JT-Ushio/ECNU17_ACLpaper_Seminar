@@ -27,6 +27,6 @@ paper：https://www.aclweb.org/anthology/P/P17/
 | 8.22 二 |            |         | An Analysis of Action Recognition Datasets for Language and Vision Tasks |   付志超    |
 | 8.23 三 |            |         |                                          |         |
 | 8.25 四 |            |         |                                          |         |
-|        |            |         |                                          |         |
+| 8.28 一 |  Semi-supervised sequence tagging with bidirectional language models  |  韦阳  |                                          |         |
 |        |            |         |                                          |         |
 
