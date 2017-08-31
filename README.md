@@ -25,5 +25,6 @@ paper：https://www.aclweb.org/anthology/P/P17/
 | 8.22 二 |            |         | An Analysis of Action Recognition Datasets for Language and Vision Tasks |   付志超    |
 | 8.25 五 |  Gated Self-Matching Networks for Reading Comprehension and Question Answering   |    付志超   |                                          |         |
 | 8.27 日 |  Semi-supervised sequence tagging with bidirectional language models  |  韦阳  |                                          |         |
+| 9.1 一 |  Get To The Point: Summarization with Pointer-Generator Networks  |  钟鸣  |                                          |         |
 |        |            |         |                                          |         |
 
